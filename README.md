@@ -5,16 +5,16 @@
   <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/2.imageset/2.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
   <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/3.imageset/3.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
   <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/4.imageset/4.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/5.imageset/5" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/6.imageset/6" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/7.imageset/7" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/8.imageset/8" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/9.imageset/9" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/> 
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/10.imageset/10" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>  
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/11.imageset/11" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/12.imageset/12" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/13.imageset/13" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
-  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/14.imageset/14" alt="Simulator Screenshot - iPhone 15 Pro Max - 2023-10-10 at 17 54 33" width="200"/>
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/5.imageset/5.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/6.imageset/6.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/7.imageset/7.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/8.imageset/8.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/9.imageset/9.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/> 
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/10.imageset/10.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>  
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/11.imageset/11.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/12.imageset/12.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/13.imageset/13.png" alt="Simulator Screenshot - iPhone 15 Pro Max" width="200"/>
+  <img src="https://github.com/aziz-ios/Ios/blob/master/Itedge/Assets.xcassets/Screenshots/14.imageset/14.png" alt="Simulator Screenshot - iPhone 15 Pro Max - 2023-10-10 at 17 54 33" width="200"/>
 </p>
 
 This App is work of one of my Friends consultation company who offer various courses. Its a replica of the
